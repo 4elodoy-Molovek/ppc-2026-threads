@@ -3,6 +3,7 @@
 #include <vector>
 
 #include "dorofeev_i_bitwise_sort_double_eo_batcher_merge/common/include/common.hpp"
+#include "task/include/task.hpp"
 
 namespace dorofeev_i_bitwise_sort_double_eo_batcher_merge {
 
